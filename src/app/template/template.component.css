@@ -1,0 +1,21 @@
+form{
+    background-color: firebrick;
+    padding: 20px;
+    color:burlywood;
+    font-size: 20px;
+    border-radius: 0px 20px 0px 20px;
+
+}
+button{
+    width: 100%;
+    text-align: center;
+    color: white;
+    border-radius: 10px;
+    background-color: black;
+    border:0;
+    padding: 10px;
+}
+input::-webkit-inner-spin-button,
+input::-webkit-outer-spin-button{
+    -webkit-appearance: none;
+}
